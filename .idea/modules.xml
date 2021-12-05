@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PopItGame.iml" filepath="$PROJECT_DIR$/PopItGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.dusza.cli/com.dusza.cli.iml" filepath="$PROJECT_DIR$/com.dusza.cli/com.dusza.cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.dusza.common/com.dusza.common.iml" filepath="$PROJECT_DIR$/com.dusza.common/com.dusza.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.dusza.datasource/com.dusza.datasource.iml" filepath="$PROJECT_DIR$/com.dusza.datasource/com.dusza.datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.dusza.game/com.dusza.game.iml" filepath="$PROJECT_DIR$/com.dusza.game/com.dusza.game.iml" />
+    </modules>
+  </component>
+</project>

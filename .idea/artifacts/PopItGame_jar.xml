@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PopItGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PopItGame_jar</output-path>
+    <root id="archive" name="PopItGame.jar">
+      <element id="module-output" name="com.dusza.common" />
+      <element id="module-output" name="com.dusza.game" />
+      <element id="module-output" name="com.dusza.datasource" />
+      <element id="module-output" name="com.dusza.cli" />
+    </root>
+  </artifact>
+</component>
